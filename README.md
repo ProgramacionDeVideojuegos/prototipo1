@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://img.freepik.com/foto-gratis/vista-caja-juego-arcade-3d_23-2151005853.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1721001600&semt=ais_user" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Proyecto: Prototipo 1 - Carrito Gravitacional
