@@ -16,7 +16,7 @@
 
 ## Introducción
 
-** Nombre del proyecto:
+* Nombre del proyecto:
 # Portal Walker
 * Objetivo:
 - El objetivo principal del jugador es explorar estos mundos y encontrar los portales que le permitirán avanzar en la historia y subir de nivel.
@@ -27,7 +27,8 @@
 - Escenario: Primer escenario  NIVEL 1 Se ubica en una cabaña en medio del bosque, el terreno es bosque y las decoraciones en su mayoría son árboles, rocas, flora o fauna, Segundo  escenario  NIVEL 2 Se ambienta en un cementerio, el terreno es terracería y la decoración en su mayoría son lápidas. Tercer  escenario  NIVEL 3 Se ambienta en un calabozo en un espacio cerrado, la decoración es medieval y los objetos son mesas, calderos y antorchas.
   ** Historia
 - La historia trata de un viajero que por fallas en los portales terminó perdido entre las dimensiones, ahora debe encontrar los portales secretos para poder regresar a su realidad. El videojuego presenta un universo compuesto por varios mundos conectados a través de portales
-  ** Reglas de Juego:
+-
+  * Reglas de Juego:
 - Si el jugador no encuentra el portal secreto no puede pasar al siguiente nivel.
 - Si la barra de vida del jugador se vacía, el jugador vuelve a empezar desde cero
 ** Pantallas de Juego
