@@ -1,17 +1,9 @@
-
+# Creación de Video Juego
 <p align="center">
-    <img src="https://img.freepik.com/foto-gratis/vista-caja-juego-arcade-3d_23-2151005853.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1721001600&semt=ais_user" alt="Logo" width=1200 height=300>
+    <img src="https://wallpapers.com/images/featured/juegos-indie-pusr8rco8kl3irzi.jpg" alt="Logo" width=1200 height=300>
 
-  <p align="center">
-    Proyecto: Prototipo 1 - Carrito Gravitacional
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Reportar un Bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Solicitar Característica</a>
-  </p>
-</p>
+ 
 
----
 
 ## Contenido
 
@@ -19,109 +11,53 @@
 - [Código Fuente](#código-fuente)
 - [Planificación](#planificación)
 - [Autores](#autores)
-- [Derechos de Autor](#derechos-de-autor)
+- [Copyright](#copyright)
 
----
 
 ## Introducción
 
-**Nombre del Proyecto:**  
-**Prototipo 1: Carrito Gravitacional**
+- Nombre del proyecto:
+- Portal Walker
+- Objetivo:
+- El objetivo principal del jugador es explorar estos mundos y encontrar los portales que le permitirán avanzar en la historia y subir de nivel.
+- Plataforma: PC
+- Género: aventura y acción
+- Clasificación: TEEN ESRB
+- Personajes: Viajero del tiempo (personaje jugable): este es el protagonista del videojuego, Esqueletos (enemigo): Serán los enemigos con los que tendrá que luchar el jugador, Duendes(enemigo). Serán los enemigos de tercer nivel con los que tendrá que luchar el jugador.
+- Escenario: Primer escenario  NIVEL 1 Se ubica en una cabaña en medio del bosque, el terreno es bosque y las decoraciones en su mayoría son árboles, rocas, flora o fauna, Segundo  escenario  NIVEL 2 Se ambienta en un cementerio, el terreno es terracería y la decoración en su mayoría son lápidas. Tercer  escenario  NIVEL 3 Se ambienta en un calabozo en un espacio cerrado, la decoración es medieval y los objetos son mesas, calderos y antorchas.
+- Historia
+- La historia trata de un viajero que por fallas en los portales terminó perdido entre las dimensiones, ahora debe encontrar los portales secretos para poder regresar a su realidad. El videojuego presenta un universo compuesto por varios mundos conectados a través de portales
+- Reglas de Juego:
+- Si el jugador no encuentra el portal secreto no puede pasar al siguiente nivel.
+- Si la barra de vida del jugador se vacía, el jugador vuelve a empezar desde cero
+- Pantallas de Juego
+- ![image](https://github.com/user-attachments/assets/41b26e71-88ce-4ea7-9d75-38914f73e8aa)
 
-**Objetivo:**  
-Crear un videojuego de mecánicas simples pero desafiantes, en el que los jugadores controlan un carrito que debe moverse estratégicamente mientras interactúa con la gravedad y evita obstáculos.
-
-**Plataforma:**  
-PC y dispositivos móviles.
-
-**Género:**  
-Plataformas, Arcade.
-
-**Clasificación:**  
-Para todo público (E).
-
-**Historia del Juego:**  
-En un mundo futurista dominado por la energía gravitacional, un pequeño pero intrépido carrito es asignado a misiones de alto riesgo. Su meta: atravesar complejos caminos repletos de obstáculos, usando su habilidad para manipular la gravedad y esquivar peligros. El tiempo es vital, y cada segundo cuenta para superar los desafíos y alcanzar la meta.
-
-**Personajes Principales:**  
-- **Carrito X-01:** El protagonista, un vehículo inteligente con la capacidad de controlar su movimiento en medio de entornos hostiles.
-- **IA Asistente:** Voz que guía al jugador, ofreciendo consejos y alertas sobre los peligros inminentes.
-
-**Reglas del Juego:**  
-1. El jugador controla el movimiento del carrito en un entorno 2D.
-2. La gravedad afecta continuamente, obligando al jugador a reaccionar rápido.
-3. Evita los obstáculos y llega al final de cada nivel.
-4. Recolección de potenciadores que te permiten modificar la gravedad o aumentar la velocidad.
-
-**Pantallas del Juego:**
-1. **Pantalla de Inicio:** Menú de opciones y selección de nivel.
-2. **Pantalla de Juego:** Vista del carrito en acción, HUD con tiempo y vidas restantes.
-3. **Pantalla de Game Over:** Oportunidad de reiniciar o regresar al menú.
-
-**Plan de Desarrollo:**  
-- **Fase 1:** Prototipo básico de las mecánicas de gravedad y movimiento.
-- **Fase 2:** Integración de obstáculos dinámicos y potenciadores.
-- **Fase 3:** Diseño de niveles y ajuste de dificultad.
-- **Fase 4:** Pruebas, depuración y optimización para múltiples plataformas.
-
----
 
 ## Código Fuente
 
-* **Lección 1: Fundamentos del Movimiento y la Gravedad**
-  * > Tutorial: Conceptos básicos del movimiento.
-  * > Laboratorio: Implementación del movimiento.
-  * > Desafío: Añadir efectos de gravedad.
-  * > Prueba: Test del movimiento gravitacional.
-  
-* **Lección 2: Colisiones y Obstáculos**
-  * > Tutorial: Detectando colisiones.
-  * > Laboratorio: Implementación de obstáculos.
-  * > Desafío: Crear un nivel con obstáculos interactivos.
-  * > Prueba: Pruebas de colisiones y lógica de obstáculos.
-  
-* **Lección 3: Efectos Visuales y Potenciadores**
-  * > Tutorial: Efectos visuales básicos.
-  * > Laboratorio: Implementar potenciadores de gravedad.
-  * > Desafío: Añadir un sistema de recolección de potenciadores.
-  * > Prueba: Verificar la integración de efectos visuales y potenciadores.
-  
-* **Lección 4: Diseño de Niveles**
-  * > Tutorial: Creación de niveles sencillos.
-  * > Laboratorio: Diseñar un nivel desafiante.
-  * > Desafío: Crear un nivel con progresión de dificultad.
-  * > Prueba: Evaluación de la curva de dificultad y experiencia de usuario.
-  
-* **Lección 5: Optimización y Lanzamiento**
-  * > Tutorial: Mejora del rendimiento.
-  * > Laboratorio: Optimización para dispositivos móviles.
-  * > Desafío: Ajuste del juego para diferentes plataformas.
-  * > Prueba: Pruebas finales de rendimiento y jugabilidad.
-
-* **VideoJuego:**  
-  El código completo del videojuego se puede encontrar en el repositorio principal.
-
----
+* Lección 1
+  * >  <a href="">Prototipo 1</a>
+* Challenge 1
+  * >  <a href="https://drive.google.com/file/d/11kFGJDy_etCiP7dCNBik-ZmwWEEY3RKS/view?usp=drive_link">Challenge 1</a>
+* Prototipo 2
+  * >  <a href="https://drive.google.com/file/d/18UjhSfKd0Y1oxw8_7ZXGOgIPwQZAq3AK/view?usp=drive_link">Prototipo 2</a>
+* Challenge 2
+  * > <a href="">Challenge 2</a>
+* Prototipo 3
+  * > <a href="https://drive.google.com/file/d/1MiER_Ss-RNnXHqOWTujCMMExQ6XuHK3K/view?usp=drive_link">Prototipo 3</a>
+  * > Prueba
+* VideoJuego
 
 ## Planificación
 
-![Planificación](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
-
-**Calendario del Proyecto:**  
-1. **Semana 1-2:** Conceptualización y boceto de las mecánicas básicas.
-2. **Semana 3-4:** Implementación del movimiento y gravedad.
-3. **Semana 5-6:** Diseño de niveles y pruebas de obstáculos.
-4. **Semana 7-8:** Ajustes, optimización y pruebas finales.
-
----
+![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
+* Miguel de Jesus Luna Garay
+* Alma Gisela Cerna Camarillo
+* Oliver Zaid Vázquez Silva
 
-**[Tu Nombre]** - Desarrollador principal  
-**[Colaborador/a]** - Diseñador/a de niveles
-
----
-
-## Derechos de Autor
-
-© 2024 Todos los derechos reservados. El contenido de este proyecto es propiedad de los desarrolladores y está protegido por leyes de derechos de autor.
+## Copyright
+Derechos Reservados 2022
+Miguel de Jesus Luna Garay
