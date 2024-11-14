@@ -48,15 +48,14 @@
 * Prototipo 3
   * > <a href="https://drive.google.com/file/d/1MiER_Ss-RNnXHqOWTujCMMExQ6XuHK3K/view?usp=drive_link">Prototipo 3</a>
 * Challenge 3
-  * Challenge 3
   * > <a href="https://drive.google.com/drive/folders/1dkWL_4YG05BEK0Lq3iZRpleFxeuh7VEt?usp=drive_link">Challenge 3</a>
-  * Challenge 4
+* Challenge 4
   * > <a href="https://drive.google.com/drive/folders/1XZA4asX7NKC1-2GVYHfLkV5Rm7vzz8L5?usp=drive_link">Challenge 4</a>
-  * Challenge 5
+* Challenge 5
   * > <a href="https://drive.google.com/drive/folders/1dI8qZw8JrMvP2Ix8PUcu6kKTv1CyvL7b?usp=drive_link">Challenge 5</a>
-  * Prototipo 4
+* Prototipo 4
   * > <a href="https://drive.google.com/drive/folders/1jbJraYMycnoYqjS3Hgkp3Xqjdfu-WmYz?usp=drive_link">Prototipo 4</a>
-  * Prototipo 5
+* Prototipo 5
   * > <a href="https://drive.google.com/drive/folders/1874ySSmDz_rGQAEkFL_ip1b2Q89R_1w1?usp=drive_link">Prototipo 5</a>
   
   * > Prueba
