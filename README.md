@@ -47,6 +47,7 @@
   * > <a href="https://drive.google.com/file/d/1jDBD_VVNZJF63cqn8Ck2VcDkyR0POD-Z/view?usp=drive_link">Challenge 2</a>
 * Prototipo 3
   * > <a href="https://drive.google.com/file/d/1MiER_Ss-RNnXHqOWTujCMMExQ6XuHK3K/view?usp=drive_link">Prototipo 3</a>
+* Challenge 3
   * Challenge 3
   * > <a href="https://drive.google.com/drive/folders/1dkWL_4YG05BEK0Lq3iZRpleFxeuh7VEt?usp=drive_link">Challenge 3</a>
   * Challenge 4
