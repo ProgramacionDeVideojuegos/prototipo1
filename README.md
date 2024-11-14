@@ -58,7 +58,6 @@
 * Prototipo 5
   * > <a href="https://drive.google.com/drive/folders/1874ySSmDz_rGQAEkFL_ip1b2Q89R_1w1?usp=drive_link">Prototipo 5</a>
   
-  * > Prueba
 * VideoJuego
 
 ## Planificación
